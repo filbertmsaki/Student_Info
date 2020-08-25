@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "488520577101",
+    "firebase_url": "https://serengeti-185517.firebaseio.com",
+    "project_id": "serengeti-185517",
+    "storage_bucket": "serengeti-185517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488520577101:android:36d050ee8672aefa256c04",
+        "android_client_info": {
+          "package_name": "com.example.studentinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488520577101-6o5rs41mkufedcnoeanno51o58ps6fih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnv6TVlLcYlkAS0qEPdI7iUJyHn44f-pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488520577101-6o5rs41mkufedcnoeanno51o58ps6fih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488520577101:android:13f17ebc48dce29b256c04",
+        "android_client_info": {
+          "package_name": "com.example.vicoba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488520577101-6o5rs41mkufedcnoeanno51o58ps6fih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnv6TVlLcYlkAS0qEPdI7iUJyHn44f-pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488520577101-6o5rs41mkufedcnoeanno51o58ps6fih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
